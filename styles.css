@@ -1,0 +1,12 @@
+body {
+    background: #000a2e;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
